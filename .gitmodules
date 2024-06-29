@@ -1,0 +1,9 @@
+[submodule "UDP"]
+	path = UDP
+	url = https://github.com/pearmypie/UDP.git
+[submodule "TCP-multithreaded"]
+	path = TCP-multithreaded
+	url = https://github.com/pearmypie/TCP-multithreaded.git
+[submodule "file-channel"]
+	path = file-channel
+	url = https://github.com/pearmypie/file-channel.git
