@@ -7,3 +7,6 @@
 [submodule "file-channel"]
 	path = file-channel
 	url = https://github.com/pearmypie/file-channel.git
+[submodule "TCP-file-sender"]
+	path = TCP-file-sender
+	url = https://github.com/pearmypie/TCP-file-sender.git
